@@ -1,71 +1,137 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hey+👋+I'm+Satyam+Mishra!;Full-stack+Developer+%7C+AI%2FML+Explorer;Welcome+to+my+Digital+Space+🚀" alt="Typing SVG" />
-</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-Expert-00f?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-Next.js-blue?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/From-Kolkata,%20India-%F0%9F%87%AE%F0%9F%87%B3-green?style=for-the-badge"/>
-</p>
-
----
-
-## 🧠 Who Am I?
-
-- 💻 Building smart apps with **Next.js + AI**
-- 🧠 ML Enthusiast exploring **LLMs, Vision, and Agents**
-- 🚧 Currently crafting **EchoSphere**: an AI-powered journaling web app
-- 🧑‍💻 Also building an **AI Model Marketplace**, Resume Agents & more
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100px"/>
+  <h1 align="center"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=00F73D&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%91%8B+Satyam+Mishra;%F0%9F%92%BB+Full-stack+Alchemist;%F0%9F%A4%96+AI%2FML+Evangelist" alt="Typing SVG" />
+  </h1>
+  
+  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Cybernetic Core
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,postgres,python,docker,kubernetes,vercel,firebase,figma" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" align="right"/>
+
+class DigitalBeing:
+    def __init__(self):
+        self.skills = {
+            'frontend': ['Next.js', 'React', 'Tailwind', 'Three.js'],
+            'backend': ['Node.js', 'FastAPI', 'PostgreSQL', 'Redis'],
+            'ai_ml': ['LLMs', 'LangChain', 'OpenCV', 'HuggingFace'],
+            'devops': ['Docker', 'Kubernetes', 'AWS', 'GitLab CI/CD']
+        }
+        self.current_project = 'EchoSphere: AI-Powered Journaling Platform'
+        self.motto = 'Turning Coffee into Neural Networks'
+    
+    def build_future(self):
+        while True:
+            code()
+            deploy()
+            innovate()
+
+
+</div>
 
 ---
 
-## 📊 GitHub Metrics
+## ⚡ Plasma-Powered Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam-mishra-dev&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-mishra-dev&theme=radical" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-mishra-dev&layout=compact&theme=radical&hide=html" height="200"/>
-</p>
+<div align="center">
+  
+| **Layer**       | **Technologies**                                                                                                 |
+|------------------|-----------------------------------------------------------------------------------------------------------------|
+| **Language**     | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| **Frontend**     | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) |
+| **AI/ML**        | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Databases**    | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps**       | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
 
----
-
-## 🧬 Dynamic Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam-mishra-dev&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=satyam-mishra-dev&theme=onedark&margin-w=10&no-bg=true&no-frame=true" />
-</p>
+</div>
 
 ---
 
-## 🔗 Connect with Me
+## 📈 Neuro-Stats
 
-<p align="center">
+<div align="center">
+
+[![Satyam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam-mishra-dev&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+| **Metric**            | **Status**                                                                                              |
+|-----------------------|--------------------------------------------------------------------------------------------------------|
+| **Code Energy**       | ![Energy Level](https://img.shields.io/badge/120%25-Neural_Overload-00ff00?style=flat-square)          |
+| **Current Focus**     | ![Focus](https://img.shields.io/badge/LLM_Agents-AI_Orchestration-blueviolet?style=flat-square)        |
+| **Knowledge Matrix**  | ![Matrix](https://img.shields.io/badge/Machine_Learning-Expert-00f?style=flat-square) ![Web_Dev](https://img.shields.io/badge/Full_Stack-Pro-9cf?style=flat-square) |
+
+</div>
+
+---
+
+## 🛰️ Deep Space Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **[EchoSphere](https://github.com/satyam-mishra-dev/echosphere)** | AI-Powered Journaling Platform | Next.js, LangChain, PostgreSQL | ![Launching](https://img.shields.io/badge/%F0%9F%9A%80-Launching_Soon-yellow) |
+| **[ModelForge](https://github.com/satyam-mishra-dev/model-forge)** | AI Model Marketplace | FastAPI, PyTorch, Kubernetes | ![Active](https://img.shields.io/badge/%F0%9F%94%A5-Active_Development-green) |
+| **[ResumeGPT](https://github.com/satyam-mishra-dev/resume-gpt)** | AI Resume Builder & Analyzer | LLMs, ChromaDB, Streamlit | ![Live](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-Live_Production-brightgreen) |
+
+</div>
+
+---
+
+## 🌌 Contribution Nebula
+
+![Contribution Grid](https://raw.githubusercontent.com/satyam-mishra-dev/satyam-mishra-dev/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+## 📡 Neural Connect
+
+<div align="center">
   <a href="https://linkedin.com/in/satyam-mishra-9329a1329" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20@SatyamMishra-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/satyam-mishra-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="mailto:satyam.mishra.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Digital%20Pigeon-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/hey_saty_here_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://leetcode.com/u/satyam-mishra-dev/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="mailto:satyam.mishra.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake Animation
+<div align="center">
+  
+![Cyberpunk Divider](https://i.imgur.com/7kE9Z2R.gif)
 
-```bash
-Enable GitHub Actions to generate contribution snake. Let me know if you want it added!
+**"The best way to predict the future is to invent it." - Alan Kay**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=satyam-mishra-dev&color=00ff88&style=flat-square)
+
+</div>
+```
+
+To activate the 3D contribution graph:
+
+1. Create `.github/workflows/profile-3d.yml` with:
+
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
