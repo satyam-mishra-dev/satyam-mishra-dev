@@ -85,7 +85,11 @@ class DigitalBeing:
 
 ## 🌌 Contribution Nebula
 
-![Contribution Grid](https://raw.githubusercontent.com/satyam-mishra-dev/satyam-mishra-dev/main/profile-3d-contrib/profile-night-rainbow.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyam-mishra-dev/satyam-mishra-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyam-mishra-dev/satyam-mishra-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/satyam-mishra-dev/satyam-mishra-dev/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -114,24 +118,6 @@ class DigitalBeing:
 ![Visitor Count](https://komarev.com/ghpvc/?username=satyam-mishra-dev&color=00ff88&style=flat-square)
 
 </div>
-```
-
-To activate the 3D contribution graph:
-
-1. Create `.github/workflows/profile-3d.yml` with:
-
-name: 3D Contribution Graph
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+hub-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
