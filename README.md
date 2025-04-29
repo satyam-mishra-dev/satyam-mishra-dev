@@ -13,8 +13,10 @@
 ## 🚀 Cybernetic Core
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" align="right"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" align="right">
+</div>
 
+```python
 class DigitalBeing:
     def __init__(self):
         self.skills = {
@@ -25,6 +27,7 @@ class DigitalBeing:
         }
         self.current_project = 'EchoSphere: AI-Powered Journaling Platform'
         self.motto = 'Turning Coffee into Neural Networks'
+
 
     
     def build_future(self):
