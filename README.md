@@ -27,7 +27,7 @@ class DigitalBeing:
         }
         self.current_project = 'EchoSphere: AI-Powered Journaling Platform'
         self.motto = 'Turning Coffee into Neural Networks'
-
+```
 
     
     def build_future(self):
