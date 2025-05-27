@@ -103,7 +103,7 @@ class DigitalBeing:
   <a href="https://linkedin.com/in/satyam-mishra-9329a1329" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20@SatyamMishra-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:satyam.mishra.dev@gmail.com">
+  <a href="mailto:satyamhere8@gmail.com">
     <img src="https://img.shields.io/badge/Email-Digital%20Pigeon-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/satyam-mishra-dev/">
