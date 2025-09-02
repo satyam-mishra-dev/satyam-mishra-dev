@@ -87,27 +87,8 @@ class DigitalBeing:
 
 ---
 
----
+![Metrics](https://github.com/satyam-mishra-dev/satyam-mishra-dev/blob/main/github-metrics.svg)
 
----
-
----
-
----
-
-##  Contribution Metrics
-
-<div align="center">
-
-<!-- Stats Card with merged PR count -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=satyam-mishra-dev&show=prs_merged,prs_merged_percentage&theme=radical)
-
-**Verify Live Counts on GitHub:**
-
-- [ PRs I authored & merged](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asatyam-mishra-dev)  
-- [ Issues I opened](https://github.com/issues?q=is%3Aissue+author%3Asatyam-mishra-dev)
-
-</div>
 
 
 
