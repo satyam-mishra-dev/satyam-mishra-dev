@@ -89,19 +89,21 @@ class DigitalBeing:
 
 ---
 
-## 📊 Contribution Metrics
+---
+
+## 📊 Contribution Metrics (Live from GitHub)
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satyam-mishra-dev&theme=github_dark)
+🔹 [**PRs Merged by Me**](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asatyam-mishra-dev)  
+🔹 [**All PRs Authored**](https://github.com/pulls?q=is%3Apr+author%3Asatyam-mishra-dev)  
+🔹 [**PRs Merged into My Repos**](https://github.com/pulls?q=is%3Apr+is%3Amerged+user%3Asatyam-mishra-dev)  
+🔹 [**Issues Opened by Me**](https://github.com/issues?q=is%3Aissue+author%3Asatyam-mishra-dev)  
 
-![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satyam-mishra-dev&theme=github_dark&utcOffset=5)
-
-![GitHub PRs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyam-mishra-dev&theme=github_dark)
-
-![GitHub Details](https://github-contributor-stats.vercel.app/api?username=satyam-mishra-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💡 These numbers are **always up-to-date** because they come directly from GitHub’s search.
 
 </div>
+
 
 
 ## 📡 Neural Connect
