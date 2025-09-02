@@ -91,18 +91,18 @@ class DigitalBeing:
 
 ---
 
-## 📊 Contribution Metrics (Live from GitHub)
+---
+
+## 📊 Contribution Metrics
 
 <div align="center">
 
-🔹 [**PRs Merged by Me**](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asatyam-mishra-dev)  
-🔹 [**All PRs Authored**](https://github.com/pulls?q=is%3Apr+author%3Asatyam-mishra-dev)  
-🔹 [**PRs Merged into My Repos**](https://github.com/pulls?q=is%3Apr+is%3Amerged+user%3Asatyam-mishra-dev)  
-🔹 [**Issues Opened by Me**](https://github.com/issues?q=is%3Aissue+author%3Asatyam-mishra-dev)  
+![Satyam’s GitHub stats](https://github-readme-stats.vercel.app/api?username=satyam-mishra-dev&show_icons=true&theme=radical)
 
-💡 These numbers are **always up-to-date** because they come directly from GitHub’s search.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-mishra-dev&layout=compact&theme=radical)
 
 </div>
+
 
 
 
