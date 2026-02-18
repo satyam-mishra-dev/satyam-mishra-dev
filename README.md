@@ -9,7 +9,21 @@
 </div>
 
 ---
+## 📡 Neural Connect
 
+<div align="center">
+  <a href="https://linkedin.com/in/satyam-mishra-9329a1329" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20@SatyamMishra-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:satyamhere8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Digital%20Pigeon-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/satyam-mishra-dev/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</div>
+
+---
 ## 🚀 Cybernetic Core
 
 <div align="center">
@@ -93,22 +107,6 @@ class DigitalBeing:
 
 
 
-## 📡 Neural Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/satyam-mishra-9329a1329" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20@SatyamMishra-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:satyamhere8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Digital%20Pigeon-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/satyam-mishra-dev/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</div>
-
----
-
 <div align="center">
   
 ![Cyberpunk Divider](https://i.imgur.com/7kE9Z2R.gif)
@@ -117,7 +115,3 @@ class DigitalBeing:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=satyam-mishra-dev&color=00ff88&style=flat-square)
 
-</div>
-hub-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
